@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcasts-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 45vh;
+    background-size: cover;
+    margin: 15px;
+    margin-bottom: 5px;
+    padding: 1px;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px;
+    text-align: left;
+}
+
+.podcasts-sub-container {
+    padding: 15px;
+}
+
+.details-card {
+    text-align: center;
+    margin: 5px;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 115px;
+
+    margin: 10px;
+
+}
+
+.podcasts-sub-heading {
+    color: #151765;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.podcasts-description {
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 10px;
+    padding: 3px;
+}
+
+.podcasts-container {
+    background-color: #151765;
+    height: 28vh;
+
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.podcasts-title {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 10px;
+    padding: 5px;
+
+}
+
+.podcast-picture {
+    width: 144px;
+    height: 115px;
+    padding: 15px;
+}
+
+.podcast-main-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 20px;
+    padding: 3px;
+    font-weight: bold;
+    margin: 1px;
+}
+
+.podcasts-section-description {
+    color: #5a7184;
+    font-family: "roboto";
+    font-size: 13px;
+    padding: 3px;
+    margin: 1px;
+}
+
+.podcast-section-time-paragraph {
+    color: #151765;
+    font-family: "roboto";
+    font-size: 10px;
+    padding: 1px;
+    margin: 1px;
+}
+
+.button {
+    background-color: #151765;
+    height: 25px;
+    width: 80px;
+    border-radius: 20px;
+    border-width: 0px;
+    color: #ffffff;
+    font-size: 12px;
+}
